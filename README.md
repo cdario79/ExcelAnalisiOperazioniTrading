@@ -14,7 +14,6 @@ Obiettivi principali:
 - **Microsoft Excel** (funzioni avanzate, tabelle pivot)  
 - **Formule avanzate di Excel** (`sumif`, `countif`, `index-match`)  
 - **Grafici Excel** per la visualizzazione dei dati  
-- **Macro VBA** per automazione di calcoli complessi  
 
 ## 📈 Risultati ottenuti  
 
@@ -41,7 +40,6 @@ Main objectives:
 - **Microsoft Excel** (advanced functions, pivot tables)  
 - **Advanced Excel formulas** (`sumif`, `countif`, `index-match`)  
 - **Excel Charts** for data visualization  
-- **VBA Macros** for complex calculation automation  
 
 ## 📈 Results Achieved  
 
