@@ -1,4 +1,3 @@
-*.xls linguist-documentation
-*.xlsx linguist-documentation
 *.xls linguist-language=Excel
 *.xlsx linguist-language=Excel
+*.csv linguist-language=CSV
